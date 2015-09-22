@@ -25,7 +25,7 @@ angular.module('starter', ['ionic'])
       event.preventDefault(); 
     }
   });
-})
+}) 
 
 .config(function($stateProvider, $urlRouterProvider){
   $stateProvider
